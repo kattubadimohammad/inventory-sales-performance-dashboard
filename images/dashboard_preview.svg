@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<rect width="1600" height="900" fill="white"/>
+<text x="800" y="55" text-anchor="middle" font-family="Arial" font-size="34" font-weight="700">Inventory &amp; Sales Performance Dashboard</text>
+<text x="800" y="85" text-anchor="middle" font-family="Arial" font-size="16">Portfolio Analysis • Sales, Inventory Availability &amp; Replenishment KPIs</text>
+
+<g font-family="Arial">
+<text x="200" y="145" text-anchor="middle" font-size="16">Total Sales</text>
+<text x="200" y="180" text-anchor="middle" font-size="28" font-weight="700">$4,570,514</text>
+<text x="600" y="145" text-anchor="middle" font-size="16">Closing Stock</text>
+<text x="600" y="180" text-anchor="middle" font-size="28" font-weight="700">316,126</text>
+<text x="1000" y="145" text-anchor="middle" font-size="16">Fill Rate</text>
+<text x="1000" y="180" text-anchor="middle" font-size="28" font-weight="700">96.1%</text>
+<text x="1400" y="145" text-anchor="middle" font-size="16">Instock %</text>
+<text x="1400" y="180" text-anchor="middle" font-size="28" font-weight="700">100.0%</text>
+
+<text x="400" y="240" text-anchor="middle" font-size="20" font-weight="700">Sales by Category</text>
+<text x="1200" y="240" text-anchor="middle" font-size="20" font-weight="700">Fill Rate by Category</text>
+<text x="400" y="550" text-anchor="middle" font-size="20" font-weight="700">Sales by Location</text>
+<text x="1200" y="550" text-anchor="middle" font-size="20" font-weight="700">Top Products by Sales</text>
+</g>
+
+<g font-family="Arial" font-size="15">
+<text x="60" y="290">Snacks</text><rect x="145" y="270" width="350" height="25" fill="#4e79a7"/>
+<text x="60" y="335">Staples</text><rect x="145" y="315" width="345" height="25" fill="#4e79a7"/>
+<text x="60" y="380">Beverages</text><rect x="145" y="360" width="320" height="25" fill="#4e79a7"/>
+<text x="60" y="425">Personal Care</text><rect x="145" y="405" width="305" height="25" fill="#4e79a7"/>
+<text x="60" y="470">Home Care</text><rect x="145" y="450" width="285" height="25" fill="#4e79a7"/>
+
+<text x="850" y="290">Home Care</text><rect x="965" y="270" width="350" height="25" fill="#4e79a7"/>
+<text x="850" y="335">Snacks</text><rect x="965" y="315" width="348" height="25" fill="#4e79a7"/>
+<text x="850" y="380">Staples</text><rect x="965" y="360" width="347" height="25" fill="#4e79a7"/>
+<text x="850" y="425">Beverages</text><rect x="965" y="405" width="346" height="25" fill="#4e79a7"/>
+<text x="850" y="470">Personal Care</text><rect x="965" y="450" width="345" height="25" fill="#4e79a7"/>
+
+<text x="80" y="610">Delhi</text><rect x="80" y="625" width="80" height="180" fill="#4e79a7"/>
+<text x="205" y="610">Hyderabad</text><rect x="220" y="625" width="80" height="165" fill="#4e79a7"/>
+<text x="345" y="610">Chennai</text><rect x="360" y="625" width="80" height="160" fill="#4e79a7"/>
+<text x="485" y="610">Pune</text><rect x="500" y="625" width="80" height="155" fill="#4e79a7"/>
+<text x="610" y="610">Mumbai</text><rect x="640" y="625" width="80" height="140" fill="#4e79a7"/>
+<text x="755" y="610">Bengaluru</text><rect x="780" y="625" width="80" height="130" fill="#4e79a7"/>
+
+<text x="950" y="610">Cookies</text><rect x="920" y="625" width="60" height="180" fill="#4e79a7"/>
+<text x="1010" y="610">Cooking Oil</text><rect x="1010" y="625" width="60" height="178" fill="#4e79a7"/>
+<text x="1110" y="610">Flour</text><rect x="1100" y="625" width="60" height="176" fill="#4e79a7"/>
+<text x="1190" y="610">Nuts</text><rect x="1190" y="625" width="60" height="168" fill="#4e79a7"/>
+<text x="1270" y="610">Soft Drinks</text><rect x="1280" y="625" width="60" height="160" fill="#4e79a7"/>
+<text x="1370" y="610">Coffee</text><rect x="1370" y="625" width="60" height="157" fill="#4e79a7"/>
+</g>
+</svg>
