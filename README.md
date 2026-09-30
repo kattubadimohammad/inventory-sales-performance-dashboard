@@ -4,7 +4,9 @@ A self-directed portfolio project demonstrating inventory and sales analysis usi
 
 ## Dashboard Preview
 
-The dashboard focuses on sales, inventory availability, fulfillment, and product performance.
+![Inventory & Sales Performance Dashboard](images/dashboard_preview.svg)
+
+> Dashboard preview created from the synthetic portfolio dataset. It is a static preview, not an interactive Power BI report.
 
 ## Key KPIs
 - Total Sales
